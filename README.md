@@ -9,3 +9,6 @@ This repository contains project files for the 'Wildland Firefighting Robot'. Th
 
 ### Paper Followed:
 [Preliminary domain theory for robot-assisted wildland firefighting](https://ieeexplore.ieee.org/document/5424143)
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/2ecc3646-4c3c-45c7-b3af-4b3d360cc0ac">
+
