@@ -12,3 +12,4 @@ This repository contains project files for the 'Wildland Firefighting Robot'. Th
 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/2ecc3646-4c3c-45c7-b3af-4b3d360cc0ac">
 
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/ef1ee2fc-d5a4-40d0-8718-18c995d8f21b">
